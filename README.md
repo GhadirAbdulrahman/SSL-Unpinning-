@@ -1,7 +1,7 @@
 # SSL-pinning
 # What is the ssl pinning 
 The process of SSL certificate pinning connects a host to a certificate or public key. It is regarded as a security procedure for protecting applications from man-in-the-middle attack . 
-This article may assist the pen tester to bypass SSL Pinning ( Andriod emulator &amp; burpsuite with frida) 
+This article may assist the pen tester to bypass SSL Pinning ( Android emulator &amp; burpsuite with frida) 
 # Requirements:
 1- Install emulator your prefer, I installed the noxplayer.  *make sure the root mode is on. 
 
@@ -74,7 +74,7 @@ and type the ps command to verify that the server is uploaded.
 
 # Burpsuite Proxy with NoxPlayer
 
-1-Open CMD and type ipconfig , and configure with burp  proxy > options > edit Proxy Listener > spicfic address  your ip:your port
+1-Open CMD and type ipconfig , and configure with burp  proxy > options > edit Proxy Listener > specific address  your ip:your port
 
 ![image](https://user-images.githubusercontent.com/49320536/200132887-831435b2-347b-4b56-b4be-355844815da6.png)
 
