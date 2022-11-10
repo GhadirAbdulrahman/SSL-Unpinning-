@@ -107,7 +107,8 @@ Every applications on your Android device will be displayed
 
 3.1- objection -g your application explore
 
-![image](https://user-images.githubusercontent.com/49320536/200123652-9ae06d5c-b83f-47d3-ab1a-6a51070b0355.png)
+![image](https://user-images.githubusercontent.com/49320536/201054717-74239ef3-7d03-4fdd-a7aa-8db5544d390e.png)
+
 
 
 
